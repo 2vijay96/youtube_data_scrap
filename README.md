@@ -5,7 +5,7 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 ****Technologies used :****
  
- Python
+ -Python
  
 -MongoDB
 
