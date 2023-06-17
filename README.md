@@ -19,7 +19,7 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 
 -Plotly
 
-****How to use :****
+****Execution of the Entire Project :****
 
 1.Connect to the YouTube API this API is used to retrieve channel, videos, comments data. I have used the Google API client library for Python to make requests to the API.
 
