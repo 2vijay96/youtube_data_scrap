@@ -3,7 +3,7 @@ YouTube Data Harvesting and Warehousing
 
 This project aims to develop a user-friendly Streamlit application that utilizes the Google API to extract information on a YouTube channel, stores it in a MongoDB database, migrates it to a SQL data warehouse, and enables users to search for channel details and join tables to view data in the Streamlit app.
 
-**Technologies used :**
+****Technologies used :****
 -Python
 -MongoDB
 -MySQL
@@ -12,7 +12,7 @@ This project aims to develop a user-friendly Streamlit application that utilizes
 -Pandas
 -Plotly
 
-How to use :
+****How to use :****
 
 1.Connect to the YouTube API this API is used to retrieve channel, videos, comments data. I have used the Google API client library for Python to make requests to the API.
 
